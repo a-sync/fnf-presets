@@ -1,8 +1,6 @@
-[{
-    "required": "FNF_MOD_PRESET.html",
-    "optional": "FNF_OPTIONALS.html"
-},
-{
-    "required": "Arma_3_Preset_FNF_VN.html",
-    "optional": "FNF_OPTIONALS.html"
-}]
+[
+    {
+        "required": "Arma_3_Preset_FNF_04MAR2022.html",
+        "optional": "FNF_OPTIONALS_2022.html"
+    }
+]
