@@ -1,3 +1,5 @@
+⚠️ This idea was abandoned in favor of [arma3pregen](https://github.com/a-sync/arma3pregen).
+
 # [Friday Night Fight](https://www.fridaynightfight.org/) Arma 3 Launcher presets
 
 ## Why?
